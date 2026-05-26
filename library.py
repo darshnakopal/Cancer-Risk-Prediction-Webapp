@@ -9,7 +9,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.axes as axes
 import seaborn as sns
-from IPython.display import display
+
 
 # supress warnings for deprecated features
 import warnings
